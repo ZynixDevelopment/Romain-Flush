@@ -6,6 +6,6 @@
 
 💞 Je suis ouvert à la collaboration sur des projets qui combinent à la fois l'administration des réseaux et le développement logiciel. J'apprécie particulièrement les défis techniques et l'opportunité d'apprendre en travaillant avec d'autres passionnés de technologie.
 
-📫 Vous pouvez me contacter via mon email : maliounatif@gmail.com
+📫 Vous pouvez me contacter via mon email : [maliounatif@gmail.com](mailto:maliounatif@gmail.com)
 
 ⚡ Fun fact : En dehors de l'informatique, j'aime voyager et découvrir de nouvelles cultures, ainsi que jouer de la guitare pour me détendre après une journée de codage intense !

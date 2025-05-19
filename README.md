@@ -1,11 +1,26 @@
-👋 Salut, je suis @ZynixDevelopment, un étudiant passionné en administration réseaux et systèmes âgé de 23 ans.
+# Salut, moi c'est ZynixDevlopement 👋
 
-👀 Je m'intéresse à la convergence entre l'administration des réseaux et le développement informatique. Je passe mes heures perdues à explorer le développement de logiciels et à trouver des solutions innovantes pour améliorer les systèmes grâce à des automatisations efficaces.
+Développeur freelance passionné par le web et les solutions back-end performantes. J’aime créer des projets modernes, innovants, et utiles à la communauté.
 
-🌱 Actuellement, je suis en train d'approfondir mes compétences dans la gestion des réseaux, la sécurité informatique et le déploiement d'infrastructures. Parallèlement, je m'investis dans le développement d'applications et de scripts pour simplifier les tâches répétitives et optimiser les performances des systèmes.
+## 🚀 À propos de moi
+- 🧠 Stack principale : **JavaScript**, **Python**, **React**, **NuxtJS**
+- 🔭 En ce moment, je travaille sur **Serverly** – une solution élégante pour la gestion de serveurs
+- 🌍 Localisé en **France**
+- 💬 Contact : `ZynixDevlopement` sur Discord
+- 🛠️ Outils & Technologies :
+  - `Python`, `JavaScript`, `React`, `NuxtJS`, `Node.js`
+  - `Git`, `VSCode`, `PostgreSQL`, `Docker`
 
-💞 Je suis ouvert à la collaboration sur des projets qui combinent à la fois l'administration des réseaux et le développement logiciel. J'apprécie particulièrement les défis techniques et l'opportunité d'apprendre en travaillant avec d'autres passionnés de technologie.
+## 📈 Statistiques GitHub
 
-📫 Vous pouvez me contacter via mon email : [maliounatif@gmail.com](mailto:maliounatif@gmail.com)
+![ZynixDevlopement's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZynixDevlopement&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZynixDevlopement&layout=compact&theme=radical)
 
-⚡ Fun fact : En dehors de l'informatique, j'aime voyager et découvrir de nouvelles cultures, ainsi que jouer de la guitare pour me détendre après une journée de codage intense !
+## ✨ Projet en cours
+### 🎯 Serverly
+Plateforme moderne pour gérer vos serveurs avec efficacité.  
+🧩 **Back-end** : Python | **Front-end** : NuxtJS  
+📖 **Open source** et en développement actif.
+
+## ⚡ Fun fact
+Je code plus vite avec du café ☕ et un bon son dans les oreilles 🎧.
